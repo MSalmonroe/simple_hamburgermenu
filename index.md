@@ -1,5 +1,3 @@
-# simple_hamburgermenu
-CSSのみによる簡易的なハンバーガーメニューの実装
 <!DOCTYPE html>
 <html lang="ja">
 <head>
